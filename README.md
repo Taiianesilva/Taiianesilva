@@ -1,4 +1,4 @@
-Olá, Eu sou Taiane Silva👋
+Olá, Eu sou Taiane Silva
 
 Sou apaixonada por educação e tecnologia e fico entusiasmada cada vez que me deparo com algum desafio que não tenho conhecimento suficiente para resolver porque vai me tirar da minha zona de conforto e me fazer crescer como profissional. 
 
