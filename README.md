@@ -1,5 +1,6 @@
 Olá, Eu sou Taiane Silva👋
 
+sou apaixonada por educação e tecnologia e fico entusiasmada cada vez que me deparo com algum desafio que não tenho conhecimento suficiente para resolver porque vai me tirar da minha zona de conforto e me fazer crescer como profissional.
 
 
 - 🔭 Futura Desenvolvedora Front-end
