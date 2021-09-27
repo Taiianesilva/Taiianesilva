@@ -3,8 +3,7 @@ Olá, Eu sou Taiane Silva
 Sou apaixonada por educação e tecnologia e fico entusiasmada cada vez que me deparo com algum desafio que não tenho conhecimento suficiente para resolver porque vai me tirar da minha zona de conforto e me fazer crescer como profissional. 
 
 - 👩‍🎓 UNINOVE - Sistemas de Informação 2022/12
-- 🔭 Futura Desenvolvedora Front-end
-- 🌱 Estudando Javascript e  TypeScript
+- 🌱 Adquirindo novos conhecimento 
 - 📫 contate-me no email :taianesilva.sp@gmail.com
 
  <div>
