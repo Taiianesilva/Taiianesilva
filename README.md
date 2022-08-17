@@ -14,8 +14,7 @@ Sou apaixonada por educação e tecnologia e fico entusiasmada cada vez que me d
 
   ##
  <div>
-    <a href="https://www.linkedin.com/in/taiane-silva-504b451ab/" target="_blank"><img src="https://<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-></a> 
+    <a href="https://www.linkedin.com/in/taiane-silva-504b451ab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="taianesilva.sp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div>  
  
