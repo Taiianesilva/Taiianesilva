@@ -19,7 +19,11 @@ Sou apaixonada por educação e tecnologia e fico entusiasmada cada vez que me d
      <a href ="taianesilva.sp@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target = "_ blank"> </a>
  </div>  
  
-    ![Snake animation](https://github.com/Taiianesilva/Taiianesilva/blob/output/github-contribution-grid-snake.svg)
+   <div align="center">
+  
+  ![Snake animation](https://github.com/Taiianesilva/Taiianesilva/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
 
    
 
