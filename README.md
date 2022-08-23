@@ -12,6 +12,8 @@ Sou apaixonada por educação e tecnologia e fico entusiasmada cada vez que me d
 - 📫 Contate-me pelo email :taianesilva.sp@gmail.com
 
  <div>
+ <br>
+
      
 <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Taiianesilva&show_icons=true&theme=panda"/>
 <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Taiianesilva&layout=compact&langs_count=7&theme=panda"/>
