@@ -16,7 +16,7 @@ Sou apaixonada por educação e tecnologia e fico entusiasmada cada vez que me d
  <p align="left">
  <a href="https://github.com/Taiianesilva">    
 <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Taiianesilva&show_icons=true&theme=panda"/>
-<img align="right" height="160em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taiianesilva&layout=compact&langs_count=7&theme=panda"/>
+<img align="right" height="190em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taiianesilva&layout=compact&langs_count=7&theme=panda"/>
 
 </div>  
 
