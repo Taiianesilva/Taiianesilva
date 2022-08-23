@@ -11,13 +11,13 @@ Sou apaixonada por educação e tecnologia e fico entusiasmada cada vez que me d
 - 🌱 Adquirindo novos conhecimento
 
 <br>
-
-
-
-![Tai GitHub stats](https://github-readme-stats.vercel.app/api?username=Taiianesilva&show_icons=true&theme=panda)
-<img height = "190em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Taiianesilva&layout=compact&langs_count=7&theme=panda"/>  
+<div align="center">
+  <a href="https://github.com/Taiianesilva">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Taiianesilva&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=panda"/>
+</div> 
  
-   <div align="center">
+  
   
   ![Snake animation](https://github.com/Taiianesilva/Taiianesilva/blob/output/github-contribution-grid-snake.svg)
   
