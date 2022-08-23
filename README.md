@@ -15,13 +15,7 @@ Sou apaixonada por educação e tecnologia e fico entusiasmada cada vez que me d
 
 
 ![Tai GitHub stats](https://github-readme-stats.vercel.app/api?username=Taiianesilva&show_icons=true&theme=panda)
-<img height = "190em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Taiianesilva&layout=compact&langs_count=7&theme=panda"/>
-
-
- <div>
-    <a href="https://www.linkedin.com/in/taiane-silva-504b451ab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="taianesilva.sp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- </div>  
+<img height = "190em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Taiianesilva&layout=compact&langs_count=7&theme=panda"/>  
  
    <div align="center">
   
@@ -31,7 +25,7 @@ Sou apaixonada por educação e tecnologia e fico entusiasmada cada vez que me d
 
 <h3> 📞 Let's Connect? </h3>
 <p> Entre em contato comigo através das fontes informadas abaixo: </p>
-  <a href="taianesilva.sp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?&logo=Gmail&logoColor=FFFFFF"/></a>
+  <a href="https://mail.google.com/mail/u/1/#inbox taianesilva.sp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?&logo=Gmail&logoColor=FFFFFF"/></a>
   <a href="https://www.linkedin.com/in/taiane-silva-504b451ab/"><img src="https://img.shields.io/badge/-Linkedln-0A66C2?&logo=Linkedin&logoColor=FFFFFF"/></a>
   <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5511945571419"><img src="https://img.shields.io/badge/-WhatsApp-25D366?&logo=WhatsApp&logoColor=FFFFFF"/></a>
   <a href="https://www.instagram.com/taiane.thay?r=nametag"><img src="https://img.shields.io/badge/-Instagram_-E4405F?&logo=Instagram&logoColor=FFFFFF"/></a>
