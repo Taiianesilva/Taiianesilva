@@ -12,12 +12,11 @@ Sou apaixonada por educação e tecnologia e fico entusiasmada cada vez que me d
 - 📫 Contate-me pelo email :taianesilva.sp@gmail.com
 <br>
 
- <div>
 
- <a href="https://github.com/Taiianesilva">    
-<img  height="160em" src="https://github-readme-stats.vercel.app/api?username=Taiianesilva&show_icons=true&theme=panda"/>
-<img align="right" height="160em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taiianesilva&layout=compact&langs_count=7&theme=panda"/>
-</div>  
+
+![Tai GitHub stats](https://github-readme-stats.vercel.app/api?username=Taiianesilva&show_icons=true&theme=panda)
+<img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Taiianesilva&layout=compact&langs_count=7&theme=panda"/>
+
 
  <div>
     <a href="https://www.linkedin.com/in/taiane-silva-504b451ab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
