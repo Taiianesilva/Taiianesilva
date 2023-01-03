@@ -7,7 +7,7 @@
 Sou apaixonada por educação e tecnologia e fico entusiasmada cada vez que me deparo com algum desafio que não tenho conhecimento suficiente para resolver porque vai me tirar da minha zona de conforto e me fazer crescer como profissional. 
 
 - 👩‍🎓 Sistemas da Informação | [Uninove](https://www.uninove.br/)
-- 👩🏻‍💻 Estagiária em Serving digital | [Itaú Unibanco](https://www.itau.com.br/)
+- 👩🏻‍💻 Anl Engenharia de Processos  | [Itaú Unibanco](https://www.itau.com.br/)
 - 🌱 Adquirindo novos conhecimento
 
 
